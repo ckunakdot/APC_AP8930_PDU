@@ -3,6 +3,7 @@
 A Control4 driver for the APC AP8930 Switched Rack PDU, providing full control of all 24 outlets via Telnet CLI.
 
 ![Control4](https://img.shields.io/badge/Control4-OS%203.x-blue)
+  <img src="https://img.shields.io/badge/Control4-OS%204.x-blue" alt="Control4 OS 4.x">
 ![Outlets](https://img.shields.io/badge/Outlets-24-green)
 ![Protocol](https://img.shields.io/badge/Protocol-Telnet-orange)
 
